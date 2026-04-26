@@ -7,7 +7,7 @@ All data files are stored on UVA Box due to GitHub file size limits.
 ## Files
 
 | File | Description |
-|---|---|---|
+|---|---|
 | `docs_sampled.csv` | Sampled document list (LIB source)
 | `hc3_LIB.csv` | LIB table — one row per document
 | `hc3_CORPUS.csv` | CORPUS table — one row per token
