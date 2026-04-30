@@ -1,8 +1,6 @@
 # Human vs. AI Text Stylometrics
 ### A Corpus Analysis of the HC3 Dataset
 
-**DS 5001 Text as Data — Final Project**
-
 ---
 
 ## Overview
