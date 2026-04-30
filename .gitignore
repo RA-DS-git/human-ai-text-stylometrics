@@ -3,7 +3,7 @@ data/*.csv
 data/*.json
 data/*.jsonl
 
-# Keep the data README
+# Data README
 !data/README.md
 
 # Python
